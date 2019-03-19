@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\bin\Debug\numberStatus.exe.config
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\bin\Debug\numberStatus.exe
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\bin\Debug\numberStatus.pdb
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\obj\Debug\numberStatus.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\obj\Debug\numberStatus.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\obj\Debug\numberStatus.exe
+C:\Users\Asus\Desktop\c#\userLogIn\numberStatus\obj\Debug\numberStatus.pdb
